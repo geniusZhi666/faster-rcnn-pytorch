@@ -1,5 +1,13 @@
 ## Faster-Rcnn：目标检测模型在Pytorch当中的实现
 ---
+logs:包含训练评估指标和训练保存的模型
+model_data：包含预训练模型
+VOCdevkit：对应VOC数据集
+
+模型下载链接：
+链接：https://pan.baidu.com/s/1xI1Vgtqb3nELf8xJ4F2w4Q?pwd=68v6 
+提取码：68v6
+
 
 ## 训练步骤
 ### a、训练VOC2012数据集
@@ -38,4 +46,5 @@ for i in range(20): #设置绘制的候选框数量，修改循环次数，改�
 ## Reference
 https://github.com/chenyuntc/simple-faster-rcnn-pytorch  
 https://github.com/eriklindernoren/PyTorch-YOLOv3  
-https://github.com/BobLiu20/YOLOv3_PyTorch  
+https://github.com/BobLiu20/YOLOv3_PyTorch
+https://github.com/bubbliiiing/faster-rcnn-pytorch
