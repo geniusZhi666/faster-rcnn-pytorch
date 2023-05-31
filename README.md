@@ -1,7 +1,9 @@
 ## Faster-Rcnn：目标检测模型在Pytorch当中的实现
 ---
 logs:包含训练评估指标和训练保存的模型
+
 model_data：包含预训练模型
+
 VOCdevkit：对应VOC数据集
 
 模型下载链接：
